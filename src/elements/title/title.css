@@ -1,0 +1,30 @@
+.mainTitle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 55px 0 40px;
+}
+
+.mainTitle div {
+    display: flex;
+    align-items: center;
+}
+
+.dateCash {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 15px 0 0 19px;
+}
+
+.mainTitle h1 {
+    color: white;
+    font-size: 65px;
+    font-weight: 900;
+}
+
+.lineInTitle {
+    height: 1px;
+    width: 52px;
+    background-color: white;
+}
